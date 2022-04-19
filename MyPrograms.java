@@ -25,6 +25,7 @@ public class MyPrograms {
 	for(Integer x:a) {
 		System.out.println(x);
 	}
+	System.out.println("Thanks");
 }
 }
 
